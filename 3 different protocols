@@ -1,0 +1,7 @@
+ Identified Protocols:
+
+DNS (Port 53): Used for domain name resolution when browsing websites.
+
+TCP (Port 80/443): Handles connection establishment and data transfer.
+
+ICMP: Observed during ping operations to generate network traffic.
